@@ -2,11 +2,16 @@ GitHub Pull Request Demo
 Version 1.1
 
 Purpose:
-This project demonstrates the GitHub Pull Request workflow.
+This project demonstrates how to create, review, and merge
+pull requests using GitHub.
 
 Changes:
-- Add a project description.
-- Update the project version.
+- Add a project purpose section explaining the workflow.
+- Update the project version from 1.0 to 1.1.
+- Document the main changes for reviewers.
 
-Review:
-The changes should be reviewed before merging.
+Review checklist:
+- Verify that the project description is clear.
+- Confirm that the version number is correct.
+- Check that the change list matches the actual updates.
+
